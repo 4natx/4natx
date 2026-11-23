@@ -6,8 +6,6 @@
 
 I'm Nathan Marques (Nat), a Brazilian web developer and the creator of Nadani Productions. I build websites, productivity tools and custom web applications, with an interest in automating repetitive work and making business data easier to use.
 
-I use AI to explore approaches, speed up implementation and review code. I test the resulting behavior and pay attention to how the application is organized so it can be maintained and adapted.
-
 ## What I do
 
 - **Web development** · Responsive landing pages, business websites and interactive web applications.
@@ -20,9 +18,9 @@ I use AI to explore approaches, speed up implementation and review code. I test 
 <img src="assets/stack.svg" alt="" width="320" height="42">
 
 - **Core technologies** · JavaScript and HTML5.
-- **Complementary skills** · CSS3, with AI assistance when building interfaces, and basic Python.
+- **Complementary skills** · CSS3 and basic Python.
 - **In these projects** · DOM APIs, responsive layouts, LocalStorage, IndexedDB, CSV and Excel processing, PDF generation and SVG charts. I use Node.js for local development servers and automated tests.
-- **Tools** · Git, GitHub, Visual Studio Code, Codex and ChatGPT.
+- **Tools** · Git, GitHub, Visual Studio Code.
 
 ## Featured Projects
 
