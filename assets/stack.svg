@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="42" viewBox="0 0 320 42">
+  <g fill="#202124" stroke="#757781">
+    <rect x=".5" y=".5" width="75" height="41" rx="8"/>
+    <rect x="81.5" y=".5" width="75" height="41" rx="8"/>
+    <rect x="162.5" y=".5" width="75" height="41" rx="8"/>
+    <rect x="243.5" y=".5" width="75" height="41" rx="8"/>
+  </g>
+  <g fill="#f0f0f2" font-family="system-ui, sans-serif" font-size="13" font-weight="650" text-anchor="middle">
+    <text x="38" y="26">JavaScript</text>
+    <text x="119" y="26">HTML5</text>
+    <text x="200" y="26">CSS3</text>
+    <text x="281" y="26">Python</text>
+  </g>
+</svg>
