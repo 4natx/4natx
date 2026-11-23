@@ -6,8 +6,6 @@
 
 Sou Nathan Marques (Nat), desenvolvedor web brasileiro e criador da Nadani Productions. Desenvolvo sites, ferramentas de produtividade e aplicações web personalizadas. Tenho interesse em automatizar tarefas repetitivas e facilitar o uso de dados no dia a dia de um negócio.
 
-Uso IA para explorar abordagens, agilizar a implementação e revisar código. Testo o funcionamento da aplicação e organizo o código para facilitar a manutenção e a adaptação a outros projetos.
-
 ## O que desenvolvo
 
 - **Desenvolvimento web** · Landing pages responsivas, sites institucionais e aplicações web interativas.
@@ -20,9 +18,9 @@ Uso IA para explorar abordagens, agilizar a implementação e revisar código. T
 <img src="assets/stack.svg" alt="" width="320" height="42">
 
 - **Tecnologias principais** · JavaScript e HTML5.
-- **Conhecimentos complementares** · CSS3, com apoio de IA na construção de interfaces, e conhecimentos básicos de Python.
+- **Conhecimentos complementares** · CSS3 e conhecimentos básicos de Python.
 - **Nestes projetos** · APIs do DOM, layouts responsivos, LocalStorage, IndexedDB, processamento de CSV e Excel, geração de PDF e gráficos SVG. Uso Node.js para os servidores locais e os testes automatizados.
-- **Ferramentas** · Git, GitHub, Visual Studio Code, Codex e ChatGPT.
+- **Ferramentas** · Git, GitHub, Visual Studio Code.
 
 ## Projetos em destaque
 
