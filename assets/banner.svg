@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="414" viewBox="0 0 1440 414" role="img" aria-labelledby="title description">
+  <title id="title">Nathan Marques</title>
+  <desc id="description">Web Developer and Digital Solutions. Nadani Productions. A silver crescent moon and a star on a graphite background.</desc>
+  <defs>
+    <radialGradient id="field" cx="85%" cy="43%" r="76%">
+      <stop stop-color="#28292d"/>
+      <stop offset=".62" stop-color="#18191b"/>
+      <stop offset="1" stop-color="#101113"/>
+    </radialGradient>
+    <linearGradient id="silver" x1="12%" y1="0%" x2="79%" y2="100%">
+      <stop stop-color="#fbfbfc"/>
+      <stop offset=".56" stop-color="#c9cbce"/>
+      <stop offset="1" stop-color="#858991"/>
+    </linearGradient>
+    <pattern id="dots" width="21" height="21" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1" fill="#777c84" opacity=".38"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1440" height="414" rx="23"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1440" height="414" fill="url(#field)"/>
+    <rect x="938" y="0" width="502" height="414" fill="url(#dots)" opacity=".26"/>
+    <g fill="none" stroke="#656870" stroke-width="1.2">
+      <path d="M970 328c83 59 223 62 321-9 46-34 74-77 84-130" opacity=".62"/>
+      <path d="M944 343c92 76 265 80 376-8 57-45 88-105 96-155" opacity=".46"/>
+      <path d="M986 152c37-52 99-94 176-114 86-22 165-8 208 31" opacity=".65"/>
+      <path d="M1008 110c72-88 230-128 341-87" opacity=".42"/>
+      <circle cx="1167" cy="209" r="141" stroke-dasharray="2 9" opacity=".52"/>
+    </g>
+    <path d="M1201 90c-58 16-86 79-64 130 22 50 80 71 127 47-18 43-68 72-120 63-66-11-107-66-100-124 6-59 62-110 127-116 11-1 20-1 30 0Z" fill="url(#silver)"/>
+    <path d="M1082 266c19 37 68 59 111 47" fill="none" stroke="#f0f1f2" stroke-width="1" opacity=".4"/>
+    <path d="M1254 103c4 20 13 29 34 33-21 4-30 13-34 34-4-21-13-30-34-34 21-4 30-13 34-33Z" fill="#f5f6f7"/>
+    <circle cx="1319" cy="291" r="4" fill="#c6c8cd"/>
+    <circle cx="987" cy="148" r="3.5" fill="#a7abb1"/>
+    <circle cx="1308" cy="82" r="2.5" fill="#a7abb1"/>
+    <path d="M78 124h55" stroke="#9a9ca1" stroke-width="2"/>
+    <path d="M78 344h764" stroke="#44464c" stroke-width="1"/>
+    <g fill="#f7f7f8" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+      <text x="78" y="96" fill="#d2d3d7" font-size="25" font-weight="650" letter-spacing="6">NADANI PRODUCTIONS</text>
+      <text x="73" y="242" font-size="112" font-weight="730" letter-spacing="-6">Nathan Marques</text>
+      <text x="79" y="311" fill="#d0d1d5" font-size="38" font-weight="500" letter-spacing="-.5">Web Developer &amp; Digital Solutions</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1438" height="412" rx="22" fill="none" stroke="#62636a" stroke-width="2"/>
+</svg>
