@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="414" viewBox="0 0 1440 414" role="img" aria-labelledby="title description">
-  <title id="title">Nathan Marques</title>
+  <title id="title">Nathan</title>
   <desc id="description">Web Developer and Digital Solutions. Nadani Productions. A silver crescent moon and a star on a graphite background.</desc>
   <defs>
     <radialGradient id="field" cx="85%" cy="43%" r="76%">
@@ -39,7 +39,7 @@
     <path d="M78 344h764" stroke="#44464c" stroke-width="1"/>
     <g fill="#f7f7f8" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
       <text x="78" y="96" fill="#d2d3d7" font-size="25" font-weight="650" letter-spacing="6">NADANI PRODUCTIONS</text>
-      <text x="73" y="242" font-size="112" font-weight="730" letter-spacing="-6">Nathan Marques</text>
+      <text x="73" y="242" font-size="112" font-weight="730" letter-spacing="-6">Nathan</text>
       <text x="79" y="311" fill="#d0d1d5" font-size="38" font-weight="500" letter-spacing="-.5">Web Developer &amp; Digital Solutions</text>
     </g>
   </g>
